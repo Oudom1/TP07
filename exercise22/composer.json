@@ -1,0 +1,17 @@
+{
+    "name": "user/exercise22",
+    "require": {
+        "intervention/image": "^2.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\Exercise22\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oudom1",
+            "email": "yenoudom73@gmail.com"
+        }
+    ]
+}
